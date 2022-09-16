@@ -1,4 +1,8 @@
 HugoSale is a decentralized IDO platform with free pre-sale, super-raise, free coin issuance and lock-up
+
+HugoSale has been deployed on the blockchain
+Front-end page: https://hugosale.com
+
 Dapp contracts have been open sourced and deployed on ETH, BSC, MATIC, AAVE, KKC public chains
 
 factory:
